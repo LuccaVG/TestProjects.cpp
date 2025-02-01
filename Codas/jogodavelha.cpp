@@ -43,7 +43,6 @@ int main()
 
     cout << "Welcome to Tic-Tac-Toe!\n";
 
-    // Game loop
     for (turn = 0; turn < 9; turn++) {
         drawBoard(board);
 
