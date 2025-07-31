@@ -54,8 +54,8 @@ void exibirMenu() {
     cout << "Escolha uma opcao:" << endl;
     cout << "1 - Decimal para Binario" << endl;
     cout << "2 - Binario para Decimal" << endl;
-    cout << "3 - Numero para Binario (com detalhes)" << endl;
-    cout << "4 - Binario para Numero (com detalhes)" << endl;
+    cout << "3 - Numero para Binario" << endl;
+    cout << "4 - Binario para Numero" << endl;
     cout << "5 - Texto para Binario" << endl;
     cout << "6 - Binario para Texto" << endl;
     cout << "0 - Sair" << endl;
